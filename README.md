@@ -1,2 +1,1 @@
-# cscinorg.github.io
-GitHub Pages
+# CSCIN Org
