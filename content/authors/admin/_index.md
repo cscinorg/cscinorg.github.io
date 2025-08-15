@@ -17,7 +17,7 @@ last_name: Bhat
 superuser: true
 
 # Role/position/tagline
-role: Administrator
+role: Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
