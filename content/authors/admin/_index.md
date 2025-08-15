@@ -3,7 +3,7 @@
 title: K P Bhat
 
 # Name pronunciation (optional)
-name_pronunciation: "
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: K P
@@ -38,7 +38,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-# website: ""
+website: ""
 ---
 
 Administrator of the CSCIN ORG site
