@@ -38,7 +38,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+# website: ""
 ---
 
 Administrator of the CSCIN ORG site
