@@ -38,28 +38,28 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
-    show_search: true
+      filename: "logo.svg"    # replaced logo.svg with own logo file
+#    button:
+#      enable: true
+#      text: "Get Started"
+#      url: "https://hugoblox.com/templates/details/docs/"
+#    show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company. This work is licensed under {license}'
+    notice: '© {year} CSCIN. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
 
-# Localization
+# Localization to Indian date time format
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '15 Aug 2025'
+  time_format: '15:00'
 
 # Site features
 features:
