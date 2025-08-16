@@ -3,9 +3,9 @@ title: 'Home'
 date: 2025-08-15
 type: landing
 
-design:
+ design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "2rem"
 
 sections:
   - block: hero
@@ -14,7 +14,7 @@ sections:
       text: 'Cybersecurity and cyber resilience information'
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [20px, 0, 20px, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: ""
