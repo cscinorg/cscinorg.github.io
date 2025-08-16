@@ -58,8 +58,8 @@ footer:
 
 # Localization to Indian date time format
 locale:
-  date_format: '15 Aug 2025'
-  time_format: '15:00'
+  date_format: '02 Jan 2006'
+  time_format: '15:04 Z05:30'
 
 # Site features
 features:
