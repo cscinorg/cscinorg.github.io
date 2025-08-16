@@ -3,9 +3,9 @@ title: 'Home'
 date: 2025-08-15
 type: landing
 
- design:
+design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "2rem"
 
 sections:
   - block: hero
