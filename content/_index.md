@@ -5,13 +5,13 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: hero
     content:
-      title: Cybersecurity and cyber resilience information for Critical Sectors Community, India
-      text: ''
+      title: Critical Sectors Community, India
+      text: 'Cybersecurity and cyber resilience information'
     design:
       spacing:
         padding: [0, 0, 0, 0]
