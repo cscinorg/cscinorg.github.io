@@ -1,16 +1,20 @@
 ---
-linkTitle: Documentation
-title: Introduction
+linkTitle: 'Documentation'
+title: Overview of Documentation
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+Critical sector entities and other organisations have no dearth of information and guidance from multiple sources to help them secure their IT systems and networks. Yet, a large number of them continue to suffer downtime and losses due to cyber attacks. An analysis of successful attacks indicate that most of them succeeded because the entites did not or could not apply the cybersecurity information and guidance effectively.    
 
 <!--more-->
 
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+The documentation in this section attempts to address the gap between knowledge and execution. Many of the insights and perspectives in this section are derived from the practices and processes adopted by organisations having a high level of cybersecurity capability and maturity. 
 
-## Next
+Organisations should take this documentation as a Framework that needs to be adapted for their specific requirements.  
+
+
+
+### Next
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
+  {{< card url="introduction" title="Introduction" icon="document-text" subtitle="Introduction to the document contents" >}}
 {{< /cards >}}
