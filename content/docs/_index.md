@@ -6,7 +6,7 @@ reading_time: true
 pager: true
 ---
 
-Critical sector entities and other organisations have no dearth of information and guidance from multiple sources to help them secure their IT systems and networks. Yet, a large number of them continue to suffer downtime and losses due to cyber attacks. An analysis of successful attacks indicate that most of them succeeded because the entites did not or could not apply the cybersecurity information and guidance effectively.    
+Critical sector entities and other organisations have no dearth of information and guidance from multiple sources to help them secure their IT systems and networks. Yet, a large number of them continue to suffer downtime and losses due to cyber-attacks. An analysis of successful attacks indicate that most of them succeeded because the entities did not or could not apply the cybersecurity information and guidance effectively.    
 
 <!--more-->
 
